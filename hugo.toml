@@ -1,0 +1,12 @@
+baseURL = 'https://midnightduck.xyz'
+theme = 'hugo-bearblog'
+languageCode = 'en-us'
+
+title = '🌠🦆 Midnight Duck'
+author = "Jonathan Jin"
+copyright = "Copyright © 2024, Midnight Duck LLC"
+
+[params]
+description = "Your late-night developer friend."
+
+title = "Midnight Duck"
