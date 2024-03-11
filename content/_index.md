@@ -5,3 +5,11 @@ Midnight Duck is run by [**Jonathan Jin**](https://jonathanj.in), a machine lear
 # Clients
 
 _This could be you!!_
+
+# Testimonials
+
+_Soon!!_
+
+# Interested?
+
+Get in touch!
