@@ -5,6 +5,7 @@ languageCode = 'en-us'
 title = '🌠🦆 Midnight Duck'
 author = "Jonathan Jin"
 copyright = "Copyright © 2024, Midnight Duck LLC"
+disableKinds = ["taxonomy", "term"]
 
 [params]
 description = "Your late-night developer friend."
