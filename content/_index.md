@@ -6,6 +6,8 @@ learning engineer with nearly ten years of software engineering expertise. Five
 of those years have been spent building machine learning systems and
 infrastructure for industry mainstays like Spotify, NVIDIA, Twitter, and Uber.
 
+You can find us on GitHub [here](https://github.com/midnight-duck).
+
 # Clients
 
 _This could be you!!_
