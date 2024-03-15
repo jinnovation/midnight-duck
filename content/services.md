@@ -1,11 +1,15 @@
 ---
 menu: main
-title: Services
+title: Work With Me
 ---
 
 # Services
 
-We provide a mixture of the following services to our clients.
+This page lists services that I provide to my clients. If there's something you
+need that isn't called out here -- ask! I will happily work with you to decide
+what works best for you.
+
+## Ad-Hoc Consultation
 
 ## Engineering Advisory
 
@@ -30,3 +34,7 @@ In this capacity, you might rely on me for any of the following:
 - "I have a prototype that I really want to get production-ready, but I'm not
   sure how"
 - "I have a long-term vision for my product but I'm not sure how to get there"
+
+# Frequently Asked Questions
+
+## Why should I work with you?
