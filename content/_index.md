@@ -20,7 +20,13 @@ _This could be you!!_
 
 # Testimonials
 
-_Soon!!_
+> Jonathan is an extremely skilled engineer who both understands the fine
+> details and is able to build the big concepts. With a vast background in large
+> scale Machine Learning systems...he was able to tackle large problems through
+> pragmatic delivery and deep collaboration with engineers throughout the
+> company. There was no problem Jonathan couldn’t solve.
+>
+> -- [Mike Seid](https://www.linkedin.com/in/mbseid), ML Platform Engineering Lead @ Spotify
 
 # Interested?
 
