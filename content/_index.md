@@ -13,6 +13,7 @@ You can find us on GitHub [here](https://github.com/midnight-duck).
 - Machine learning and artificial intelligence, with a focus on infrastructure
   and productionization
 - Cloud-native infrastructure
+- Ethical and responsible AI
 
 # Clients
 

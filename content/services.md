@@ -11,6 +11,20 @@ what works best for you.
 
 ## Ad-Hoc Consultation
 
+Loosely structured conversations where we talk through some of your AI/ML
+challenges and discuss potential solutions.
+
+These are best for if you have some high-level architectural challenge that
+you're not *quite* sure how to address.
+
+### Example scenarios
+
+- "We want to begin investing in machine learning. What should we prioritize
+  first?
+- "We have a model serving pipeline that we'd like to harden but don't want to
+  invest in interviewing and hiring a full-time MLE. What should we do first?"
+- "What are some paid or open-source solutions out there we should look into?"
+
 ## Engineering Advisory
 
 Think of me as your "fractional tech lead." You and I will work together to
