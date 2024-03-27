@@ -15,7 +15,9 @@ Loosely structured conversations where we talk through some of your AI/ML
 challenges and discuss potential solutions.
 
 These are best for if you have some high-level architectural challenge that
-you're not *quite* sure how to address.
+you're not *quite* sure how to address. These are also useful for when you have
+AI/ML needs, but are not yet at the scale at which hiring a dedicated AI/ML
+engineer is feasible or practical.
 
 ### Example scenarios
 
